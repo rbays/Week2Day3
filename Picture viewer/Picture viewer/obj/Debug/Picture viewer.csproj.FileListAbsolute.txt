@@ -1,0 +1,9 @@
+C:\Users\student\Documents\GitHub\Week2Day3\Picture viewer\Picture viewer\bin\Debug\Picture viewer.exe.config
+C:\Users\student\Documents\GitHub\Week2Day3\Picture viewer\Picture viewer\bin\Debug\Picture viewer.exe
+C:\Users\student\Documents\GitHub\Week2Day3\Picture viewer\Picture viewer\bin\Debug\Picture viewer.pdb
+C:\Users\student\Documents\GitHub\Week2Day3\Picture viewer\Picture viewer\obj\Debug\Picture viewer.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Week2Day3\Picture viewer\Picture viewer\obj\Debug\Picture_viewer.Properties.Resources.resources
+C:\Users\student\Documents\GitHub\Week2Day3\Picture viewer\Picture viewer\obj\Debug\Picture viewer.csproj.GenerateResource.Cache
+C:\Users\student\Documents\GitHub\Week2Day3\Picture viewer\Picture viewer\obj\Debug\Picture viewer.exe
+C:\Users\student\Documents\GitHub\Week2Day3\Picture viewer\Picture viewer\obj\Debug\Picture viewer.pdb
+C:\Users\student\Documents\GitHub\Week2Day3\Picture viewer\Picture viewer\obj\Debug\Picture_viewer.Form1.resources

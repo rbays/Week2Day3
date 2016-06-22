@@ -1,0 +1,9 @@
+C:\Users\student\Documents\GitHub\Week2Day3\WindowsFormsDemoApp\WindowsFormsDemoApp\bin\Debug\WindowsFormsDemoApp.exe.config
+C:\Users\student\Documents\GitHub\Week2Day3\WindowsFormsDemoApp\WindowsFormsDemoApp\bin\Debug\WindowsFormsDemoApp.exe
+C:\Users\student\Documents\GitHub\Week2Day3\WindowsFormsDemoApp\WindowsFormsDemoApp\bin\Debug\WindowsFormsDemoApp.pdb
+C:\Users\student\Documents\GitHub\Week2Day3\WindowsFormsDemoApp\WindowsFormsDemoApp\obj\Debug\WindowsFormsDemoApp.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Week2Day3\WindowsFormsDemoApp\WindowsFormsDemoApp\obj\Debug\WindowsFormsDemoApp.Form1.resources
+C:\Users\student\Documents\GitHub\Week2Day3\WindowsFormsDemoApp\WindowsFormsDemoApp\obj\Debug\WindowsFormsDemoApp.Properties.Resources.resources
+C:\Users\student\Documents\GitHub\Week2Day3\WindowsFormsDemoApp\WindowsFormsDemoApp\obj\Debug\WindowsFormsDemoApp.csproj.GenerateResource.Cache
+C:\Users\student\Documents\GitHub\Week2Day3\WindowsFormsDemoApp\WindowsFormsDemoApp\obj\Debug\WindowsFormsDemoApp.exe
+C:\Users\student\Documents\GitHub\Week2Day3\WindowsFormsDemoApp\WindowsFormsDemoApp\obj\Debug\WindowsFormsDemoApp.pdb
